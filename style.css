@@ -1,12 +1,10 @@
-#background-image {
+.background-image {
     background-image: url("randoguy.JPG");
     height: 100vh;
     background-size: cover;
-#backgroundP{
-    
 }
 
-  }
-#mask{
-    background-color: rgba(0, 0, 0, 0.5);
+.mask {
+    background-color: rgba(0, 0, 0,0.5);
+    height: 100vh;
 }
